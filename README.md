@@ -6,6 +6,12 @@ An urban planning data science project exploring transit equity and pedestrian a
 ## 📌 Project Overview
 This project evaluates the "walkability" of public transit in the **Old West Side (OWS)** neighborhood of Ann Arbor, Michigan. Using a **400-meter buffer analysis** (the industry standard for a 5-minute walk), I mapped the service area of all existing bus stops to identify potential "transit deserts" or blind spots.
 
+<p align="center">
+   <img src="./snapshots/OWS location.png" height="400" title="Bus Stop Accessibility Map">
+   <img src="./snapshots/OWS bus stops.png" height="400" title="Bus Stop Accessibility Map">
+   <img src="./snapshots/OWS buffer zones.png" height="400" title="Bus Stop Accessibility Map">
+   <img src="./snapshots/OWS blind spots.png" height="400" title="Bus Stop Accessibility Map">
+</p>
 
 
 ## 🛠️ Tech Stack
